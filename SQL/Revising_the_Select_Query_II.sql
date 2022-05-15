@@ -1,0 +1,1 @@
+select NAME from CITY where CITY.POPULATION > 120000 and CITY.COUNTRYCODE = "USA";
