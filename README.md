@@ -10,3 +10,4 @@ This is for HackerRank problems solutions
 | 3      | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                 | Easy        |
 | 4      | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                 | Easy        |
 | 5      | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)    | Easy        |
+| 6      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)               | Easy        |
