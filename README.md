@@ -12,3 +12,4 @@ This is for HackerRank problems solutions
 | 5      | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)      | Easy        |
 | 6      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                 | Easy        |
 | 7      | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | Easy        |
+| 8      | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | Easy        |
