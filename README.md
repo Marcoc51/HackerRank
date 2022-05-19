@@ -13,3 +13,4 @@ This is for HackerRank problems solutions
 | 6      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                 | Easy        |
 | 7      | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | Easy        |
 | 8      | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | Easy        |
+| 9      | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | Easy        |
