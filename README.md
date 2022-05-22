@@ -25,3 +25,4 @@ This is for HackerRank problems solutions
 | 18     | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)                       | Easy        |
 | 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)                              | Easy        |
 | 20     | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)                         | Easy        |
+| 21     | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)                        | Easy        |
