@@ -23,3 +23,5 @@ This is for HackerRank problems solutions
 | 16     | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | Easy        |
 | 17     | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | Easy        |
 | 18     | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)                       | Easy        |
+| 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)                              | Easy        |
+| 20     | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)                         | Easy        |
