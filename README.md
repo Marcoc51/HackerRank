@@ -29,3 +29,4 @@ This is for HackerRank problems solutions
 | 22     | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | Easy        |
 | 23     | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                    | Easy        |
 | 24     | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)           | Easy        |
+| 25     | [Average Population](https://www.hackerrank.com/challenges/average-population)                         | Easy        |
