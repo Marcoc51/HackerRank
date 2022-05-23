@@ -26,3 +26,6 @@ This is for HackerRank problems solutions
 | 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)                              | Easy        |
 | 20     | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)                         | Easy        |
 | 21     | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)                        | Easy        |
+| 22     | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | Easy        |
+| 23     | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                    | Easy        |
+| 24     | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)           | Easy        |
