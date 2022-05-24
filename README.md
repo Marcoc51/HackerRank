@@ -30,3 +30,6 @@ This is for HackerRank problems solutions
 | 23     | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                    | Easy        |
 | 24     | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)           | Easy        |
 | 25     | [Average Population](https://www.hackerrank.com/challenges/average-population)                         | Easy        |
+| 26     | [Japan Population](https://www.hackerrank.com/challenges/japan-population)                             | Easy        |
+| 27     | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)   | Easy        |
+| 28     | [The Blunder](https://www.hackerrank.com/challenges/the-blunder)                                       | Easy        |
