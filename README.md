@@ -33,3 +33,6 @@ This is for HackerRank problems solutions
 | 26     | [Japan Population](https://www.hackerrank.com/challenges/japan-population)                             | Easy        |
 | 27     | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)   | Easy        |
 | 28     | [The Blunder](https://www.hackerrank.com/challenges/the-blunder)                                       | Easy        |
+| 29     | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)                             | Easy        |
+| 30     | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)   | Easy        |
+| 31     | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | Easy        |
