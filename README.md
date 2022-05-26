@@ -39,3 +39,6 @@ This is for HackerRank problems solutions
 | 32     | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | Easy        |
 | 33     | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | Easy        |
 | 34     | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | Easy        |
+| 35     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | Easy        |
+| 36     | [Population Census](https://www.hackerrank.com/challenges/asian-population)                            | Easy        |
+| 37     | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                 | Easy        |
