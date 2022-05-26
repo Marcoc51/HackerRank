@@ -36,3 +36,6 @@ This is for HackerRank problems solutions
 | 29     | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)                             | Easy        |
 | 30     | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)   | Easy        |
 | 31     | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | Easy        |
+| 32     | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | Easy        |
+| 33     | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | Easy        |
+| 34     | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | Easy        |
