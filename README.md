@@ -42,3 +42,6 @@ This is for HackerRank problems solutions
 | 35     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | Easy        |
 | 36     | [Population Census](https://www.hackerrank.com/challenges/asian-population)                            | Easy        |
 | 37     | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                 | Easy        |
+| 38     | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)             | Easy        |
+| 39     | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                       | Easy        |
+| 40     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                       | Easy        |
