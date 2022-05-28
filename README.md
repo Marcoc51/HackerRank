@@ -45,3 +45,6 @@ This is for HackerRank problems solutions
 | 38     | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)             | Easy        |
 | 39     | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                       | Easy        |
 | 40     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                       | Easy        |
+| 41     | [The PADS](https://www.hackerrank.com/challenges/the-pads)                                             | Medium      |
+| 42     | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | Medium      |
+| 43     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | Medium      |
