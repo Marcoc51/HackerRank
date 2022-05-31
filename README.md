@@ -50,3 +50,5 @@ This is for HackerRank problems solutions
 | 43     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | Medium      |
 | 44     | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)                        | Medium      |
 | 45     | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | Medium      |
+| 46     | [The Report](https://www.hackerrank.com/challenges/the-report)                                         | Medium      |
+| 47     | [Top Competitors](https://www.hackerrank.com/challenges/full-score)                                    | Medium      |
