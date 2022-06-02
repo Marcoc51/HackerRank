@@ -53,3 +53,4 @@ This is for HackerRank problems solutions
 | 46     | [The Report](https://www.hackerrank.com/challenges/the-report)                                         | Medium      |
 | 47     | [Top Competitors](https://www.hackerrank.com/challenges/full-score)                                    | Medium      |
 | 48     | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)                 | Medium      |
+| 49     | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)                       | Medium      |
