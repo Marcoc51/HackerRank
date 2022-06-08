@@ -54,3 +54,13 @@ This is for HackerRank problems solutions
 | 47     | [Top Competitors](https://www.hackerrank.com/challenges/full-score)                                    | Medium      |
 | 48     | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)                 | Medium      |
 | 49     | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)                       | Medium      |
+
+
+
+2. #### Databases Problems:
+
+| ID     | Problem                                                                                                          | DIFFICULTY  |
+| -------|:----------------------------------------------------------------------------------------------------------------:| -----------:|
+| 1      | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1) | Easy        |
+| 2      | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2) | Easy        |
+| 3      | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3) | Easy        |
