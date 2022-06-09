@@ -64,3 +64,7 @@ This is for HackerRank problems solutions
 | 1      | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1) | Easy        |
 | 2      | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2) | Easy        |
 | 3      | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3) | Easy        |
+| 4      | [Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4) | Easy        |
+| 5      | [Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5) | Easy        |
+| 6      | [Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6) | Easy        |
+| 7      | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7) | Easy        |
