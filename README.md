@@ -68,3 +68,5 @@ This is for HackerRank problems solutions
 | 5      | [Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5) | Easy        |
 | 6      | [Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6) | Easy        |
 | 7      | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7) | Easy        |
+| 8      | [Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf)            | Easy        |
+| 9      | [Database Normalization #2 - 1/2/3 NF](https://www.hackerrank.com/challenges/database-normalization-123nf)       | Easy        |
