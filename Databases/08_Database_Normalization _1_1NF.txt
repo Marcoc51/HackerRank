@@ -1,0 +1,21 @@
+3 rows
+5 rows
+2 columns
+
+Cause:
+
+First-Table
+*Product-ID*    *Price*
+1               15.0
+2               18.0
+3               2.5
+
+
+
+Second-Table
+*Product-ID*    *Colors*    
+1               Red
+1               Green   
+2               Blue        
+3               Yellow
+3               Pink 
