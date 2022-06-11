@@ -1,0 +1,8 @@
+3NF
+
+
+Cause:
+because of the transirive dependency
+column zip code depends on city column that depends on the primary key
+
+Zip code --> city --> primary key
