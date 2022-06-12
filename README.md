@@ -5,23 +5,23 @@ This is for HackerRank problems solutions
 
 | ID     | Problem                                                                                                | DIFFICULTY  |
 | -------|:------------------------------------------------------------------------------------------------------:| -----------:|
-| 1      | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)         | Easy        |
-| 2      | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | Easy        |
-| 3      | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                     | Easy        |
-| 4      | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                     | Easy        |
-| 5      | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)        | Easy        |
-| 6      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                   | Easy        |
-| 7      | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)   | Easy        |
-| 8      | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)   | Easy        |
-| 9      | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)   | Easy        |
-| 10     | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)   | Easy        |
-| 11     | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)   | Easy        |
-| 12     | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)   | Easy        |
-| 13     | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)   | Easy        |
-| 14     | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)   | Easy        |
-| 15     | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | Easy        |
-| 16     | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | Easy        |
-| 17     | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | Easy        |
+| 01     | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)         | Easy        |
+| 02     | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)      | Easy        |
+| 03     | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                     | Easy        |
+| 04     | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                     | Easy        |
+| 05     | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)        | Easy        |
+| 06     | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                   | Easy        |
+| 07     | [Weather Observation Station 1](https://github.com/Marcoc51/HackerRank/blob/main/SQL/07_Weather_Observation_Station_1.sql)   | Easy        |
+| 08     | [Weather Observation Station 3](https://github.com/Marcoc51/HackerRank/blob/main/SQL/08_Weather_Observation_Station_3.sql)   | Easy        |
+| 09     | [Weather Observation Station 4](https://github.com/Marcoc51/HackerRank/blob/main/SQL/09_Weather_Observation_Station_4.sql)   | Easy        |
+| 10     | [Weather Observation Station 5](https://github.com/Marcoc51/HackerRank/blob/main/SQL/10_Weather_Observation_Station_5.sql)   | Easy        |
+| 11     | [Weather Observation Station 6](https://github.com/Marcoc51/HackerRank/blob/main/SQL/11_Weather_Observation_Station_6.sql)   | Easy        |
+| 12     | [Weather Observation Station 7](https://github.com/Marcoc51/HackerRank/blob/main/SQL/12_Weather_Observation_Station_7.sql)   | Easy        |
+| 13     | [Weather Observation Station 8](https://github.com/Marcoc51/HackerRank/blob/main/SQL/13_Weather_Observation_Station_8.sql)   | Easy        |
+| 14     | [Weather Observation Station 9](https://github.com/Marcoc51/HackerRank/blob/main/SQL/14_Weather_Observation_Station_9.sql)   | Easy        |
+| 15     | [Weather Observation Station 10](https://github.com/Marcoc51/HackerRank/blob/main/SQL/15_Weather_Observation_Station_10.sql) | Easy        |
+| 16     | [Weather Observation Station 11](https://github.com/Marcoc51/HackerRank/blob/main/SQL/16_Weather_Observation_Station_11.sql) | Easy        |
+| 17     | [Weather Observation Station 12](https://github.com/Marcoc51/HackerRank/blob/main/SQL/17_Weather_Observation_Station_12.sql) | Easy        |
 | 18     | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)                       | Easy        |
 | 19     | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)                              | Easy        |
 | 20     | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)                         | Easy        |
@@ -34,12 +34,12 @@ This is for HackerRank problems solutions
 | 27     | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)   | Easy        |
 | 28     | [The Blunder](https://www.hackerrank.com/challenges/the-blunder)                                       | Easy        |
 | 29     | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)                             | Easy        |
-| 30     | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)   | Easy        |
-| 31     | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | Easy        |
-| 32     | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | Easy        |
-| 33     | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | Easy        |
-| 34     | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | Easy        |
-| 35     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | Easy        |
+| 30     | [Weather Observation Station 2](https://github.com/Marcoc51/HackerRank/blob/main/SQL/30_Weather_Observation_Station_2.sql)   | Easy        |
+| 31     | [Weather Observation Station 13](https://github.com/Marcoc51/HackerRank/blob/main/SQL/31_Weather_Observation_Station_13.sql) | Easy        |
+| 32     | [Weather Observation Station 14](https://github.com/Marcoc51/HackerRank/blob/main/SQL/32_Weather_Observation_Station_14.sql) | Easy        |
+| 33     | [Weather Observation Station 15](https://github.com/Marcoc51/HackerRank/blob/main/SQL/33_Weather_Observation_Station_15.sql) | Easy        |
+| 34     | [Weather Observation Station 16](https://github.com/Marcoc51/HackerRank/blob/main/SQL/34_Weather_Observation_Station_16.sql) | Easy        |
+| 35     | [Weather Observation Station 17](https://github.com/Marcoc51/HackerRank/blob/main/SQL/35_Weather_Observation_Station_17.sql) | Easy        |
 | 36     | [Population Census](https://www.hackerrank.com/challenges/asian-population)                            | Easy        |
 | 37     | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                 | Easy        |
 | 38     | [Average Population of Each Continent](https://github.com/Marcoc51/HackerRank/blob/main/SQL/38_Average_Population_of_Each_Continent.sql)| Easy        |
@@ -52,7 +52,7 @@ This is for HackerRank problems solutions
 | 45     | [Weather Observation Station 20](https://github.com/Marcoc51/HackerRank/blob/main/SQL/45_Weather_Observation_Station_20.sql)| Medium      |
 | 46     | [The Report](https://github.com/Marcoc51/HackerRank/blob/main/SQL/46_The_Report.sql)                   | Medium      |
 | 47     | [Top Competitors](https://github.com/Marcoc51/HackerRank/blob/main/SQL/47_Top_Competitors.sql)         | Medium      |
-| 48     | [Ollivander's Inventory](https://github.com/Marcoc51/HackerRank/blob/main/SQL/48_Ollivanders_Inventory.sql)| Medium      |
+| 48     | [Ollivander's Inventory](https://github.com/Marcoc51/HackerRank/blob/main/SQL/48_Ollivanders_Inventory.sql)                 | Medium      |
 | 49     | [Contest Leaderboard](https://github.com/Marcoc51/HackerRank/blob/main/SQL/49_Contest_Leaderboard.sql) | Medium      |
 | 50     | [Placements](https://github.com/Marcoc51/HackerRank/blob/main/SQL/50_Placements.sql)                   | Medium      |
 
@@ -62,12 +62,14 @@ This is for HackerRank problems solutions
 
 | ID     | Problem                                                                                                          | DIFFICULTY  |
 | -------|:----------------------------------------------------------------------------------------------------------------:| -----------:|
-| 1      | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1) | Easy        |
-| 2      | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2) | Easy        |
-| 3      | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3) | Easy        |
-| 4      | [Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4) | Easy        |
-| 5      | [Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5) | Easy        |
-| 6      | [Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6) | Easy        |
-| 7      | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7) | Easy        |
-| 8      | [Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf)            | Easy        |
-| 9      | [Database Normalization #2 - 1/2/3 NF](https://www.hackerrank.com/challenges/database-normalization-123nf)       | Easy        |
+| 01     | [Basics of Sets and Relations #1](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_1.txt) | Easy        |
+| 02     | [Basics of Sets and Relations #2](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_2.txt) | Easy        |
+| 03     | [Basics of Sets and Relations #3](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_3.txt) | Easy        |
+| 04     | [Basics of Sets and Relations #4](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_4.txt) | Easy        |
+| 05     | [Basics of Sets and Relations #5](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_5.txt) | Easy        |
+| 06     | [Basics of Sets and Relations #6](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_6.txt) | Easy        |
+| 07     | [Basics of Sets and Relations #7](https://github.com/Marcoc51/HackerRank/blob/main/Databases/07_Basics_of_Sets_and_Relations_7.txt) | Easy        |
+| 08     | [Database Normalization #1 - 1NF](https://github.com/Marcoc51/HackerRank/blob/main/Databases/08_Database_Normalization_1_1NF.txt)   | Easy        |
+| 09     | [Database Normalization #2 - 1/2/3 NF](https://github.com/Marcoc51/HackerRank/blob/main/Databases/09_Database_Normalization_2_123_NF.txt)| Easy        |
+| 10     | [Database Normalization #3](https://github.com/Marcoc51/HackerRank/blob/main/Databases/10_Database_Normalization_3.txt)             | Hard        |
+| 11     | [Database Normalization #4](https://github.com/Marcoc51/HackerRank/blob/main/Databases/11_Database_Normalization_4.txt)             | Easy        |
