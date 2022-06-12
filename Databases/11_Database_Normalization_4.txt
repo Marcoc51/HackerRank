@@ -1,0 +1,4 @@
+10 Tables
+
+
+Cause: Each table has only 2 columns, a key column and a non key column so there is not transitive dependency.
