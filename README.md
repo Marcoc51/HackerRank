@@ -42,18 +42,19 @@ This is for HackerRank problems solutions
 | 35     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | Easy        |
 | 36     | [Population Census](https://www.hackerrank.com/challenges/asian-population)                            | Easy        |
 | 37     | [African Cities](https://www.hackerrank.com/challenges/african-cities)                                 | Easy        |
-| 38     | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)             | Easy        |
-| 39     | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                       | Easy        |
-| 40     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                       | Easy        |
-| 41     | [The PADS](https://www.hackerrank.com/challenges/the-pads)                                             | Medium      |
-| 42     | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | Medium      |
-| 43     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | Medium      |
-| 44     | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)                        | Medium      |
-| 45     | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | Medium      |
-| 46     | [The Report](https://www.hackerrank.com/challenges/the-report)                                         | Medium      |
-| 47     | [Top Competitors](https://www.hackerrank.com/challenges/full-score)                                    | Medium      |
-| 48     | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)                 | Medium      |
-| 49     | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)                       | Medium      |
+| 38     | [Average Population of Each Continent](https://github.com/Marcoc51/HackerRank/blob/main/SQL/38_Average_Population_of_Each_Continent.sql)| Easy        |
+| 39     | [Draw The Triangle 1](https://github.com/Marcoc51/HackerRank/blob/main/SQL/39_Draw_The_Triangle_1.sql) | Easy        |
+| 40     | [Draw The Triangle 2](https://github.com/Marcoc51/HackerRank/blob/main/SQL/40_Draw_The_Triangle_2.sql) | Easy        |
+| 41     | [The PADS](https://github.com/Marcoc51/HackerRank/blob/main/SQL/41_The_PADS.sql)                       | Medium      |
+| 42     | [Weather Observation Station 18](https://github.com/Marcoc51/HackerRank/blob/main/SQL/42_Weather_Observation_Station_18.sql)| Medium      |
+| 43     | [Weather Observation Station 19](https://github.com/Marcoc51/HackerRank/blob/main/SQL/43_Weather_Observation_Station_19.sql)| Medium      |
+| 44     | [Binary Tree Nodes](https://github.com/Marcoc51/HackerRank/blob/main/SQL/44_Binary_Tree_Nodes.sql)     | Medium      |
+| 45     | [Weather Observation Station 20](https://github.com/Marcoc51/HackerRank/blob/main/SQL/45_Weather_Observation_Station_20.sql)| Medium      |
+| 46     | [The Report](https://github.com/Marcoc51/HackerRank/blob/main/SQL/46_The_Report.sql)                   | Medium      |
+| 47     | [Top Competitors](https://github.com/Marcoc51/HackerRank/blob/main/SQL/47_Top_Competitors.sql)         | Medium      |
+| 48     | [Ollivander's Inventory](https://github.com/Marcoc51/HackerRank/blob/main/SQL/48_Ollivanders_Inventory.sql)| Medium      |
+| 49     | [Contest Leaderboard](https://github.com/Marcoc51/HackerRank/blob/main/SQL/49_Contest_Leaderboard.sql) | Medium      |
+| 50     | [Placements](https://github.com/Marcoc51/HackerRank/blob/main/SQL/50_Placements.sql)                   | Medium      |
 
 
 
