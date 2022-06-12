@@ -1,0 +1,7 @@
+SELECT S1.Name
+FROM Students S1 INNER JOIN Friends F ON F.ID = S1.ID
+INNER JOIN Students S2 ON F.Friend_ID = S2.ID
+INNER JOIN Packages P1 ON P1.ID = S1.ID
+INNER JOIN Packages P2 ON P2.ID = S2.ID
+WHERE P1.Salary < P2.Salary
+ORDER BY P2.Salary;
