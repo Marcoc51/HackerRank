@@ -1,0 +1,4 @@
+3 Tables
+
+
+Cause: a table for students, a table for courses, a table for students and courses enrolled in
