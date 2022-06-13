@@ -1,0 +1,5 @@
+2NF
+
+
+Cause: There isn't partial dependency
+There is only one table that have a composite primary key and it determines the third attribute in the table
