@@ -73,6 +73,6 @@ This is for HackerRank problems solutions
 | 09     | [Database Normalization #2 - 1/2/3 NF](https://github.com/Marcoc51/HackerRank/blob/main/Databases/09_Database_Normalization_2_123_NF.txt)| Easy        |
 | 10     | [Database Normalization #3](https://github.com/Marcoc51/HackerRank/blob/main/Databases/10_Database_Normalization_3.txt)             | Hard        |
 | 11     | [Database Normalization #4](https://github.com/Marcoc51/HackerRank/blob/main/Databases/11_Database_Normalization_4.txt)             | Easy        |
-| 11     | [Database Normalization #5](https://github.com/Marcoc51/HackerRank/blob/main/Databases/12_Database_Normalization_5.txt)             | Medium      |
-| 11     | [Database Normalization #6](https://github.com/Marcoc51/HackerRank/blob/main/Databases/13_Database_Normalization_6.txt)             | Medium      |
-| 11     | [Database Normalization #7](https://github.com/Marcoc51/HackerRank/blob/main/Databases/14_Database_Normalization_7.txt)             | Medium      |
+| 12     | [Database Normalization #5](https://github.com/Marcoc51/HackerRank/blob/main/Databases/12_Database_Normalization_5.txt)             | Medium      |
+| 13     | [Database Normalization #6](https://github.com/Marcoc51/HackerRank/blob/main/Databases/13_Database_Normalization_6.txt)             | Medium      |
+| 14     | [Database Normalization #7](https://github.com/Marcoc51/HackerRank/blob/main/Databases/14_Database_Normalization_7.txt)             | Medium      |
