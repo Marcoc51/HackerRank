@@ -1,0 +1,9 @@
+3.5NF (BCNF)
+
+
+Cause: movie(DESCRIPTION,director,serialno) has devided into serial(SERIALNO,director) and customer(name,addr,MEMBERNO)
+Now, this is in BCNF because left side part of both the functional dependencies is a key.
+
+description->director,serialno
+serialno->description
+serialno->director
