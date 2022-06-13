@@ -1,0 +1,6 @@
+3NF
+
+
+Cause: We well have 3 tables 
+First We well have R1(a, b) and R2(b, c, d) to be in 2NF
+Then we well split R2 into R2(b, d) and R3(d, c) to be in 3NF
