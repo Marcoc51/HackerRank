@@ -1,0 +1,4 @@
+3
+
+
+Cause: 3.  serialno->director --> both of serialno and director are non-key attributes
