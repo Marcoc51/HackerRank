@@ -1,0 +1,26 @@
+6 Rows
+
+
+
+Cause: Fourth normal form (4NF) is a level of database normalization where there are no non-trivial multivalued dependencies other than a candidate key.
+In this relation Delivery Area depends on both Crust and Restaurant
+
+The two tables will be like this:
+
+Restaurant  Crust      
+-------------------
+X Pizza     Thick            
+X Pizza     Stuffed        
+Papa Pizza  Thin        
+Papa Pizza  Stuffed    
+F1 Pizza    Thick    
+F1 Pizza    Thin
+
+Restaurant  Delivery Area
+-------------------------
+X Pizza     Whitefield
+X Pizza     Greenville
+X Pizza     Capital
+Papa Pizza  Capital
+F1 Pizza    Whitefield
+F1 Pizza    Greenville
