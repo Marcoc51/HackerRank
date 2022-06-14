@@ -1,0 +1,5 @@
+2
+
+
+cause: a candidate key should define all the attributes of any relation.
+In second depandancy a,d -> b, (a,d) is not defining all the attributes of the relation(a,b,c,d,e)
