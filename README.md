@@ -77,5 +77,5 @@ This is for HackerRank problems solutions
 | 13     | [Database Normalization #6](https://github.com/Marcoc51/HackerRank/blob/main/Databases/13_Database_Normalization_6.txt)             | Medium      |
 | 14     | [Database Normalization #7](https://github.com/Marcoc51/HackerRank/blob/main/Databases/14_Database_Normalization_7.txt)             | Medium      |
 | 15     | [Database Normalization #8](https://github.com/Marcoc51/HackerRank/blob/main/Databases/15_Database_Normalization_8.txt)             | Medium      |
-| 16     | [Database Normalization #9](https://github.com/Marcoc51/HackerRank/blob/main/Databases/16_Database_Normalization_9.txt)             | Medium      |
+| 16     | [Database Normalization #9](https://github.com/Marcoc51/HackerRank/blob/main/Databases/16_Database_Normalization_9.txt)             | Hard        |
 | 17     | [Database Normalization #10](https://github.com/Marcoc51/HackerRank/blob/main/Databases/17_Database_Normalization_10.txt)           | Medium      |
