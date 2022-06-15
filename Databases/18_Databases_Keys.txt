@@ -1,0 +1,4 @@
+bookname
+
+
+Cause: It's the only unique attribute un the table
