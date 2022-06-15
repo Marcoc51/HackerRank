@@ -79,3 +79,6 @@ This is for HackerRank problems solutions
 | 15     | [Database Normalization #8](https://github.com/Marcoc51/HackerRank/blob/main/Databases/15_Database_Normalization_8.txt)             | Medium      |
 | 16     | [Database Normalization #9](https://github.com/Marcoc51/HackerRank/blob/main/Databases/16_Database_Normalization_9.txt)             | Hard        |
 | 17     | [Database Normalization #10](https://github.com/Marcoc51/HackerRank/blob/main/Databases/17_Database_Normalization_10.txt)           | Medium      |
+| 18     | [Databases - Keys](https://github.com/Marcoc51/HackerRank/blob/main/Databases/18_Databases_Keys.txt)                                | Medium      |
+| 19     | [Databases - Natural Joins](https://github.com/Marcoc51/HackerRank/blob/main/Databases/19_Databases_Natural_Joins.txt)              | Medium      |
+| 20     | [Databases - Differences](https://github.com/Marcoc51/HackerRank/blob/main/Databases/20_Databases_Differences.txt)                  | Medium      |
