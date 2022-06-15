@@ -1,0 +1,15 @@
+50
+1
+6
+
+cause: we used the following rows 
+
+A : C
+27,1
+
+B : C : D
+50,1,6
+
+The result:
+A : B : C : D
+27, 50, 1, 6
