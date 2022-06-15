@@ -1,0 +1,5 @@
+2
+3
+
+
+Cause: tuple (4, 2, 3) is the only tuple in relation R(A,B,C) and not in relation S(A,B,C)
