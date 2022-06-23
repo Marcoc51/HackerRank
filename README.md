@@ -82,3 +82,10 @@ This is for HackerRank problems solutions
 | 18     | [Databases - Keys](https://github.com/Marcoc51/HackerRank/blob/main/Databases/18_Databases_Keys.txt)                                      | Medium      |
 | 19     | [Databases - Natural Joins](https://github.com/Marcoc51/HackerRank/blob/main/Databases/19_Databases_Natural_Joins.txt)                    | Medium      |
 | 20     | [Databases - Differences](https://github.com/Marcoc51/HackerRank/blob/main/Databases/20_Databases_Differences.txt)                        | Medium      |
+
+
+3. #### Python Problems:
+
+| ID     | Problem                                                                                                                                   | DIFFICULTY  |
+| -------|:-----------------------------------------------------------------------------------------------------------------------------------------:| -----------:|
+| 01     | [Say "Hello, World!" With Python](https://github.com/Marcoc51/HackerRank/blob/main/Python/01_Say_Hello_World_With_Python.py)              | Easy        |
