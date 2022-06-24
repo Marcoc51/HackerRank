@@ -89,3 +89,6 @@ This is for HackerRank problems solutions
 | ID     | Problem                                                                                                                                   | DIFFICULTY  |
 | -------|:-----------------------------------------------------------------------------------------------------------------------------------------:| -----------:|
 | 01     | [Say "Hello, World!" With Python](https://github.com/Marcoc51/HackerRank/blob/main/Python/01_Say_Hello_World_With_Python.py)              | Easy        |
+| 02     | [Python If-Else](https://github.com/Marcoc51/HackerRank/blob/main/Python/02_Python_If_Else.py)                                            | Easy        |
+| 03     | [Arithmetic Operators](https://github.com/Marcoc51/HackerRank/blob/main/Python/03_Arithmetic_Operators.py)                                | Easy        |
+| 04     | [Python: Division](https://github.com/Marcoc51/HackerRank/blob/main/Python/04_Python_Division.py)                                         | Easy        |
