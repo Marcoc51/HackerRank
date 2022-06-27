@@ -92,3 +92,6 @@ This is for HackerRank problems solutions
 | 02     | [Python If-Else](https://github.com/Marcoc51/HackerRank/blob/main/Python/02_Python_If_Else.py)                                            | Easy        |
 | 03     | [Arithmetic Operators](https://github.com/Marcoc51/HackerRank/blob/main/Python/03_Arithmetic_Operators.py)                                | Easy        |
 | 04     | [Python: Division](https://github.com/Marcoc51/HackerRank/blob/main/Python/04_Python_Division.py)                                         | Easy        |
+| 05     | [Loops](https://github.com/Marcoc51/HackerRank/blob/main/Python/05_Loops.py)                                                              | Easy        |
+| 06     | [Write a function](https://github.com/Marcoc51/HackerRank/blob/main/Python/06_Write_a_function.py)                                        | Medium      |
+| 07     | [Print Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/07_Print_Function.py)                                            | Easy        |
