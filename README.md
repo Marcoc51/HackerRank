@@ -95,3 +95,5 @@ This is for HackerRank problems solutions
 | 05     | [Loops](https://github.com/Marcoc51/HackerRank/blob/main/Python/05_Loops.py)                                                              | Easy        |
 | 06     | [Write a function](https://github.com/Marcoc51/HackerRank/blob/main/Python/06_Write_a_function.py)                                        | Medium      |
 | 07     | [Print Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/07_Print_Function.py)                                            | Easy        |
+| 08     | [List Comprehensions](https://github.com/Marcoc51/HackerRank/blob/main/Python/08_List_Comprehensions.py)                                  | Easy        |
+| 09     | [Find the Runner-Up Score!](https://github.com/Marcoc51/HackerRank/blob/main/Python/09_Find_the_Runner_Up_Score.py)                       | Easy        |
