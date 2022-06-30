@@ -97,3 +97,5 @@ This is for HackerRank problems solutions
 | 07     | [Print Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/07_Print_Function.py)                                            | Easy        |
 | 08     | [List Comprehensions](https://github.com/Marcoc51/HackerRank/blob/main/Python/08_List_Comprehensions.py)                                  | Easy        |
 | 09     | [Find the Runner-Up Score!](https://github.com/Marcoc51/HackerRank/blob/main/Python/09_Find_the_Runner_Up_Score.py)                       | Easy        |
+| 10     | [Finding the percentage](https://github.com/Marcoc51/HackerRank/blob/main/Python/10_Finding_the_percentage.py)                            | Easy        |
+| 11     | [Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/11_Lists.py)                                                              | Easy        |
