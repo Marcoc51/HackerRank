@@ -99,3 +99,5 @@ This is for HackerRank problems solutions
 | 09     | [Find the Runner-Up Score!](https://github.com/Marcoc51/HackerRank/blob/main/Python/09_Find_the_Runner_Up_Score.py)                       | Easy        |
 | 10     | [Finding the percentage](https://github.com/Marcoc51/HackerRank/blob/main/Python/10_Finding_the_percentage.py)                            | Easy        |
 | 11     | [Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/11_Lists.py)                                                              | Easy        |
+| 12     | [Tuples](https://github.com/Marcoc51/HackerRank/blob/main/Python/12_Tuples.py)                                                            | Easy        |
+| 13     | [sWAP cASE](https://github.com/Marcoc51/HackerRank/blob/main/Python/13_sWAP_cASE.py)                                                      | Easy        |
