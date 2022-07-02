@@ -101,3 +101,5 @@ This is for HackerRank problems solutions
 | 11     | [Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/11_Lists.py)                                                              | Easy        |
 | 12     | [Tuples](https://github.com/Marcoc51/HackerRank/blob/main/Python/12_Tuples.py)                                                            | Easy        |
 | 13     | [sWAP cASE](https://github.com/Marcoc51/HackerRank/blob/main/Python/13_sWAP_cASE.py)                                                      | Easy        |
+| 14     | [String Split and Join](https://github.com/Marcoc51/HackerRank/blob/main/Python/14_String_Split_and_Join.py)                              | Easy        |
+| 15     | [What's Your Name?](https://github.com/Marcoc51/HackerRank/blob/main/Python/15_What's_Your_Name.py)                                       | Easy        |
