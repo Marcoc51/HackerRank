@@ -103,3 +103,7 @@ This is for HackerRank problems solutions
 | 13     | [sWAP cASE](https://github.com/Marcoc51/HackerRank/blob/main/Python/13_sWAP_cASE.py)                                                      | Easy        |
 | 14     | [String Split and Join](https://github.com/Marcoc51/HackerRank/blob/main/Python/14_String_Split_and_Join.py)                              | Easy        |
 | 15     | [What's Your Name?](https://github.com/Marcoc51/HackerRank/blob/main/Python/15_What's_Your_Name.py)                                       | Easy        |
+| 16     | [Mutations](https://github.com/Marcoc51/HackerRank/blob/main/Python/16_Mutations.py)                                                      | Easy        |
+| 17     | [Find a string](https://github.com/Marcoc51/HackerRank/blob/main/Python/17_Find_a_string.py)                                              | Easy        |
+| 18     | [String Validators](https://github.com/Marcoc51/HackerRank/blob/main/Python/18_String_Validators.py)                                      | Easy        |
+| 19     | [Text Alignment](https://github.com/Marcoc51/HackerRank/blob/main/Python/19_Text_Alignment.py)                                            | Easy        |
