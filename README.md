@@ -107,3 +107,5 @@ This is for HackerRank problems solutions
 | 17     | [Find a string](https://github.com/Marcoc51/HackerRank/blob/main/Python/17_Find_a_string.py)                                              | Easy        |
 | 18     | [String Validators](https://github.com/Marcoc51/HackerRank/blob/main/Python/18_String_Validators.py)                                      | Easy        |
 | 19     | [Text Alignment](https://github.com/Marcoc51/HackerRank/blob/main/Python/19_Text_Alignment.py)                                            | Easy        |
+| 20     | [Text Wrap](https://github.com/Marcoc51/HackerRank/blob/main/Python/20_Text_Wrap.py)                                                      | Easy        |
+| 21     | [Designer Door Mat](https://github.com/Marcoc51/HackerRank/blob/main/Python/21_Designer_Door_Mat.py)                                      | Easy        |
