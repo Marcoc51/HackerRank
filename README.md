@@ -112,3 +112,4 @@ This is for HackerRank problems solutions
 | 22     | [Alphabet Rangoli](https://github.com/Marcoc51/HackerRank/blob/main/Python/22_Alphabet_Rangoli.py)                                        | Easy        |
 | 23     | [Nested Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/23_Nested_Lists.py)                                                | Easy        |
 | 24     | [Capitalize!](https://github.com/Marcoc51/HackerRank/blob/main/Python/24_Capitalize.py)                                                   | Easy        |
+| 25     | [String Formatting](https://github.com/Marcoc51/HackerRank/blob/main/Python/25_String_Formatting.py)                                      | Easy        |
