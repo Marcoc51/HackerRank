@@ -113,3 +113,4 @@ This is for HackerRank problems solutions
 | 23     | [Nested Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/23_Nested_Lists.py)                                                | Easy        |
 | 24     | [Capitalize!](https://github.com/Marcoc51/HackerRank/blob/main/Python/24_Capitalize.py)                                                   | Easy        |
 | 25     | [String Formatting](https://github.com/Marcoc51/HackerRank/blob/main/Python/25_String_Formatting.py)                                      | Easy        |
+| 26     | [Merge the Tools!](https://github.com/Marcoc51/HackerRank/blob/main/Python/26_Merge_the_Tools.py)                                         | Easy        |
