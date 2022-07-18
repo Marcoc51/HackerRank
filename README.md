@@ -115,3 +115,4 @@ This is for HackerRank problems solutions
 | 25     | [String Formatting](https://github.com/Marcoc51/HackerRank/blob/main/Python/25_String_Formatting.py)                                      | Easy        |
 | 26     | [Merge the Tools!](https://github.com/Marcoc51/HackerRank/blob/main/Python/26_Merge_the_Tools.py)                                         | Easy        |
 | 27     | [itertools.product()](https://github.com/Marcoc51/HackerRank/blob/main/Python/27_itertools_product().py)                                  | Easy        |
+| 28     | [collections.Counter()](https://github.com/Marcoc51/HackerRank/blob/main/Python/28_collections_Counter.py)                                | Easy        |
