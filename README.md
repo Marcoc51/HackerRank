@@ -117,3 +117,4 @@ This is for HackerRank problems solutions
 | 27     | [itertools.product()](https://github.com/Marcoc51/HackerRank/blob/main/Python/27_itertools_product().py)                                  | Easy        |
 | 28     | [collections.Counter()](https://github.com/Marcoc51/HackerRank/blob/main/Python/28_collections_Counter.py)                                | Easy        |
 | 29     | [itertools.permutations()](https://github.com/Marcoc51/HackerRank/blob/main/Python/29_itertools_permutations.py)                          | Easy        |
+| 30     | [Introduction to Sets](https://github.com/Marcoc51/HackerRank/blob/main/Python/30_Introduction_to_Sets.py)                                | Easy        |
