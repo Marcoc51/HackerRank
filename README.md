@@ -119,3 +119,4 @@ This is for HackerRank problems solutions
 | 29     | [itertools.permutations()](https://github.com/Marcoc51/HackerRank/blob/main/Python/29_itertools_permutations.py)                          | Easy        |
 | 30     | [Introduction to Sets](https://github.com/Marcoc51/HackerRank/blob/main/Python/30_Introduction_to_Sets.py)                                | Easy        |
 | 31     | [Polar Coordinates](https://github.com/Marcoc51/HackerRank/blob/main/Python/31_Polar_Coordinates.py)                                      | Easy        |
+| 32     | [DefaultDict Tutorial](https://github.com/Marcoc51/HackerRank/blob/main/Python/32_DefaultDict.py)                                         | Easy        |
