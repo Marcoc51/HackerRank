@@ -120,3 +120,4 @@ This is for HackerRank problems solutions
 | 30     | [Introduction to Sets](https://github.com/Marcoc51/HackerRank/blob/main/Python/30_Introduction_to_Sets.py)                                | Easy        |
 | 31     | [Polar Coordinates](https://github.com/Marcoc51/HackerRank/blob/main/Python/31_Polar_Coordinates.py)                                      | Easy        |
 | 32     | [DefaultDict Tutorial](https://github.com/Marcoc51/HackerRank/blob/main/Python/32_DefaultDict.py)                                         | Easy        |
+| 33     | [Calendar Module](https://github.com/Marcoc51/HackerRank/blob/main/Python/33_Calendar_Module.py)                                          | Easy        |
