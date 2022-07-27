@@ -113,7 +113,7 @@ This is for HackerRank problems solutions
 | 23     | [Nested Lists](https://github.com/Marcoc51/HackerRank/blob/main/Python/23_Nested_Lists.py)                                                | Easy        |
 | 24     | [Capitalize!](https://github.com/Marcoc51/HackerRank/blob/main/Python/24_Capitalize.py)                                                   | Easy        |
 | 25     | [String Formatting](https://github.com/Marcoc51/HackerRank/blob/main/Python/25_String_Formatting.py)                                      | Easy        |
-| 26     | [Merge the Tools!](https://github.com/Marcoc51/HackerRank/blob/main/Python/26_Merge_the_Tools.py)                                         | Easy        |
+| 26     | [Merge the Tools!](https://github.com/Marcoc51/HackerRank/blob/main/Python/26_Merge_the_Tools.py)                                         | Medium      |
 | 27     | [itertools.product()](https://github.com/Marcoc51/HackerRank/blob/main/Python/27_itertools_product().py)                                  | Easy        |
 | 28     | [collections.Counter()](https://github.com/Marcoc51/HackerRank/blob/main/Python/28_collections_Counter.py)                                | Easy        |
 | 29     | [itertools.permutations()](https://github.com/Marcoc51/HackerRank/blob/main/Python/29_itertools_permutations.py)                          | Easy        |
@@ -122,5 +122,5 @@ This is for HackerRank problems solutions
 | 32     | [DefaultDict Tutorial](https://github.com/Marcoc51/HackerRank/blob/main/Python/32_DefaultDict.py)                                         | Easy        |
 | 33     | [Calendar Module](https://github.com/Marcoc51/HackerRank/blob/main/Python/33_Calendar_Module.py)                                          | Easy        |
 | 34     | [Exceptions](https://github.com/Marcoc51/HackerRank/blob/main/Python/34_Exceptions.py)                                                    | Easy        |
-| 35     | [The Minion Game](https://github.com/Marcoc51/HackerRank/blob/main/Python/35_The%20Minion_Game.py)                                        | Easy        |
+| 35     | [The Minion Game](https://github.com/Marcoc51/HackerRank/blob/main/Python/35_The%20Minion_Game.py)                                        | Medium      |
 | 36     | [combinations_with_replacement()](https://github.com/Marcoc51/HackerRank/blob/main/Python/36_itertools_combinations_with_replacement.py)  | Easy        |
