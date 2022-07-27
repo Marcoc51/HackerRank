@@ -123,3 +123,4 @@ This is for HackerRank problems solutions
 | 33     | [Calendar Module](https://github.com/Marcoc51/HackerRank/blob/main/Python/33_Calendar_Module.py)                                          | Easy        |
 | 34     | [Exceptions](https://github.com/Marcoc51/HackerRank/blob/main/Python/34_Exceptions.py)                                                    | Easy        |
 | 35     | [The Minion Game](https://github.com/Marcoc51/HackerRank/blob/main/Python/35_The%20Minion_Game.py)                                        | Easy        |
+| 36     | [combinations_with_replacement()](https://github.com/Marcoc51/HackerRank/blob/main/Python/36_itertools_combinations_with_replacement.py)  | Easy        |
