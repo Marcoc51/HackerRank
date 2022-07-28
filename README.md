@@ -124,3 +124,4 @@ This is for HackerRank problems solutions
 | 34     | [Exceptions](https://github.com/Marcoc51/HackerRank/blob/main/Python/34_Exceptions.py)                                                    | Easy        |
 | 35     | [The Minion Game](https://github.com/Marcoc51/HackerRank/blob/main/Python/35_The%20Minion_Game.py)                                        | Medium      |
 | 36     | [combinations_with_replacement()](https://github.com/Marcoc51/HackerRank/blob/main/Python/36_itertools_combinations_with_replacement.py)  | Easy        |
+| 37     | [Collections.namedtuple()](https://github.com/Marcoc51/HackerRank/blob/main/Python/37_Collections_namedtuple.py)                          | Easy        |
