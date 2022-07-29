@@ -125,3 +125,4 @@ This is for HackerRank problems solutions
 | 35     | [The Minion Game](https://github.com/Marcoc51/HackerRank/blob/main/Python/35_The%20Minion_Game.py)                                        | Medium      |
 | 36     | [combinations_with_replacement()](https://github.com/Marcoc51/HackerRank/blob/main/Python/36_itertools_combinations_with_replacement.py)  | Easy        |
 | 37     | [Collections.namedtuple()](https://github.com/Marcoc51/HackerRank/blob/main/Python/37_Collections_namedtuple.py)                          | Easy        |
+| 38     | [Collections.OrderedDict()](https://github.com/Marcoc51/HackerRank/blob/main/Python/38_Collections_OrderedDict.py)                        | Easy        |
