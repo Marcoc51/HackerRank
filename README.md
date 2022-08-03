@@ -128,3 +128,5 @@ This is for HackerRank problems solutions
 | 38     | [Collections.OrderedDict()](https://github.com/Marcoc51/HackerRank/blob/main/Python/38_Collections_OrderedDict.py)                        | Easy        |
 | 39     | [Find Angle MBC](https://github.com/Marcoc51/HackerRank/blob/main/Python/39_Find_Angle_MBC.py)                                            | Easy        |
 | 40     | [itertools.combinations()](https://github.com/Marcoc51/HackerRank/blob/main/Python/40_itertools_combinations.py)                          | Easy        |
+| 41     | [Symmetric Difference](https://github.com/Marcoc51/HackerRank/blob/main/Python/41_Symmetric_Difference.py)                                | Easy        |
+| 42     | [Incorrect Regex](https://github.com/Marcoc51/HackerRank/blob/main/Python/42_Incorrect_Regex.py)                                          | Easy        |
