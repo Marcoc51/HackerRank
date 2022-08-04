@@ -130,3 +130,5 @@ This is for HackerRank problems solutions
 | 40     | [itertools.combinations()](https://github.com/Marcoc51/HackerRank/blob/main/Python/40_itertools_combinations.py)                          | Easy        |
 | 41     | [Symmetric Difference](https://github.com/Marcoc51/HackerRank/blob/main/Python/41_Symmetric_Difference.py)                                | Easy        |
 | 42     | [Incorrect Regex](https://github.com/Marcoc51/HackerRank/blob/main/Python/42_Incorrect_Regex.py)                                          | Easy        |
+| 43     | [Set .add()](https://github.com/Marcoc51/HackerRank/blob/main/Python/43_Set_add.py)                                                       | Easy        |
+| 44     | [Set .discard(), .remove() & .pop()](https://github.com/Marcoc51/HackerRank/blob/main/Python/44_Set_discard_remove_pop.py)                | Easy        |
