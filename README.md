@@ -133,3 +133,4 @@ This is for HackerRank problems solutions
 | 43     | [Set .add()](https://github.com/Marcoc51/HackerRank/blob/main/Python/43_Set_add.py)                                                       | Easy        |
 | 44     | [Set .discard(), .remove() & .pop()](https://github.com/Marcoc51/HackerRank/blob/main/Python/44_Set_discard_remove_pop.py)                | Easy        |
 | 45     | [Set .union() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/45_Set_union_Operation.py)                               | Easy        |
+| 46     | [Set .intersection() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/46_Set_intersection_Operation.py)                 | Easy        |
