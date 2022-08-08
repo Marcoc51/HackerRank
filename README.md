@@ -135,3 +135,4 @@ This is for HackerRank problems solutions
 | 45     | [Set .union() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/45_Set_union_Operation.py)                               | Easy        |
 | 46     | [Set .intersection() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/46_Set_intersection_Operation.py)                 | Easy        |
 | 47     | [Set .symmetric_difference() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/47_Set_symmetric_difference_Operation.py) | Easy        |
+| 48     | [Set .difference() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/48_Set_difference_Operation.py)                     | Easy        |
