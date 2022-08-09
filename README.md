@@ -136,3 +136,4 @@ This is for HackerRank problems solutions
 | 46     | [Set .intersection() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/46_Set_intersection_Operation.py)                 | Easy        |
 | 47     | [Set .symmetric_difference() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/47_Set_symmetric_difference_Operation.py) | Easy        |
 | 48     | [Set .difference() Operation](https://github.com/Marcoc51/HackerRank/blob/main/Python/48_Set_difference_Operation.py)                     | Easy        |
+| 49     | [Set Mutations](https://github.com/Marcoc51/HackerRank/blob/main/Python/49_Set_Mutations.py)                                              | Easy        |
