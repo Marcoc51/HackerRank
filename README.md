@@ -140,3 +140,4 @@ This is for HackerRank problems solutions
 | 50     | [Check Subset](https://github.com/Marcoc51/HackerRank/blob/main/Python/50_Check_Subset.py)                                                | Easy        |
 | 51     | [Check Strict Superset](https://github.com/Marcoc51/HackerRank/blob/main/Python/51_Check_Strict_Superset.py)                              | Easy        |
 | 52     | [The Captain's Room](https://github.com/Marcoc51/HackerRank/blob/main/Python/52_The_Captains_Room.py)                                     | Easy        |
+| 53     | [No Idea!](https://github.com/Marcoc51/HackerRank/blob/main/Python/53_No_Idea.py)                                                         | Medium      |
