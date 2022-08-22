@@ -142,4 +142,4 @@ This is for HackerRank problems solutions
 | 52     | [The Captain's Room](https://github.com/Marcoc51/HackerRank/blob/main/Python/52_The_Captains_Room.py)                                     | Easy        |
 | 53     | [No Idea!](https://github.com/Marcoc51/HackerRank/blob/main/Python/53_No_Idea.py)                                                         | Medium      |
 | 54     | [Collections.deque()](https://github.com/Marcoc51/HackerRank/blob/main/Python/54_Collections_deque.py)                                    | Easy        |
-| 55     | [Piling Up!](https://github.com/Marcoc51/HackerRank/blob/main/Python/55_Piling_Up.py)                                                     | Easy        |
+| 55     | [Piling Up!](https://github.com/Marcoc51/HackerRank/blob/main/Python/55_Piling_Up.py)                                                     | Medium      |
