@@ -143,3 +143,4 @@ This is for HackerRank problems solutions
 | 53     | [No Idea!](https://github.com/Marcoc51/HackerRank/blob/main/Python/53_No_Idea.py)                                                         | Medium      |
 | 54     | [Collections.deque()](https://github.com/Marcoc51/HackerRank/blob/main/Python/54_Collections_deque.py)                                    | Easy        |
 | 55     | [Piling Up!](https://github.com/Marcoc51/HackerRank/blob/main/Python/55_Piling_Up.py)                                                     | Medium      |
+| 56     | [Company Logo](https://github.com/Marcoc51/HackerRank/blob/main/Python/56_Company_Logo.py)                                                | Medium      |
