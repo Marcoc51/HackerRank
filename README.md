@@ -144,3 +144,4 @@ This is for HackerRank problems solutions
 | 54     | [Collections.deque()](https://github.com/Marcoc51/HackerRank/blob/main/Python/54_Collections_deque.py)                                    | Easy        |
 | 55     | [Piling Up!](https://github.com/Marcoc51/HackerRank/blob/main/Python/55_Piling_Up.py)                                                     | Medium      |
 | 56     | [Company Logo](https://github.com/Marcoc51/HackerRank/blob/main/Python/56_Company_Logo.py)                                                | Medium      |
+| 57     | [Word Order](https://github.com/Marcoc51/HackerRank/blob/main/Python/57_Word_Order.py)                                                    | Medium      |
