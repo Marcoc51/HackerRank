@@ -145,3 +145,6 @@ This is for HackerRank problems solutions
 | 55     | [Piling Up!](https://github.com/Marcoc51/HackerRank/blob/main/Python/55_Piling_Up.py)                                                     | Medium      |
 | 56     | [Company Logo](https://github.com/Marcoc51/HackerRank/blob/main/Python/56_Company_Logo.py)                                                | Medium      |
 | 57     | [Word Order](https://github.com/Marcoc51/HackerRank/blob/main/Python/57_Word_Order.py)                                                    | Medium      |
+| 58     | [Integers Come In All Sizes](https://github.com/Marcoc51/HackerRank/blob/main/Python/58_Integers_Come_In_All_Sizes.py)                    | Easy        |
+| 59     | [Power - Mod Power](https://github.com/Marcoc51/HackerRank/blob/main/Python/59_Power_Mod_Power.py)                                        | Easy        |
+| 60     | [Mod Divmod](https://github.com/Marcoc51/HackerRank/blob/main/Python/60_Mod_Divmod.py)                                                    | Easy        |
