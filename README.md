@@ -148,3 +148,4 @@ This is for HackerRank problems solutions
 | 58     | [Integers Come In All Sizes](https://github.com/Marcoc51/HackerRank/blob/main/Python/58_Integers_Come_In_All_Sizes.py)                    | Easy        |
 | 59     | [Power - Mod Power](https://github.com/Marcoc51/HackerRank/blob/main/Python/59_Power_Mod_Power.py)                                        | Easy        |
 | 60     | [Mod Divmod](https://github.com/Marcoc51/HackerRank/blob/main/Python/60_Mod_Divmod.py)                                                    | Easy        |
+| 61     | [Compress the String!](https://github.com/Marcoc51/HackerRank/blob/main/Python/61_Compress_the_String.py)                                 | Medium      |
