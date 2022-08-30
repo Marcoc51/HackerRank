@@ -150,3 +150,4 @@ This is for HackerRank problems solutions
 | 60     | [Mod Divmod](https://github.com/Marcoc51/HackerRank/blob/main/Python/60_Mod_Divmod.py)                                                    | Easy        |
 | 61     | [Compress the String!](https://github.com/Marcoc51/HackerRank/blob/main/Python/61_Compress_the_String.py)                                 | Medium      |
 | 62     | [Iterables and Iterators](https://github.com/Marcoc51/HackerRank/blob/main/Python/62_Iterables_and_Iterators.py)                          | Medium      |
+| 63     | [Class 2 - Find the Torsional Angle](https://github.com/Marcoc51/HackerRank/blob/main/Python/63_Find_the_Torsional_Angle.py)              | Easy        |
