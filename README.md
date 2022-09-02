@@ -153,3 +153,4 @@ This is for HackerRank problems solutions
 | 63     | [Class 2 - Find the Torsional Angle](https://github.com/Marcoc51/HackerRank/blob/main/Python/63_Find_the_Torsional_Angle.py)              | Easy        |
 | 64     | [Input()](https://github.com/Marcoc51/HackerRank/blob/main/Python/64_Input().py)                                                          | Easy        |
 | 65     | [Classes: Dealing with Complex Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/65_Complex_Numbers.py)                    | Medium      |
+| 66     | [Zipped!](https://github.com/Marcoc51/HackerRank/blob/main/Python/66_Zipped.py)                                                           | Easy        |
