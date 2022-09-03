@@ -154,3 +154,5 @@ This is for HackerRank problems solutions
 | 64     | [Input()](https://github.com/Marcoc51/HackerRank/blob/main/Python/64_Input().py)                                                          | Easy        |
 | 65     | [Classes: Dealing with Complex Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/65_Complex_Numbers.py)                    | Medium      |
 | 66     | [Zipped!](https://github.com/Marcoc51/HackerRank/blob/main/Python/66_Zipped.py)                                                           | Easy        |
+| 67     | [Python Evaluation](https://github.com/Marcoc51/HackerRank/blob/main/Python/67_Python_Evaluation.py)                                      | Easy        |
+| 68     | [Any or All](https://github.com/Marcoc51/HackerRank/blob/main/Python/68_Any_or_All.py)                                                    | Easy        |
