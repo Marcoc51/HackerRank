@@ -157,3 +157,4 @@ This is for HackerRank problems solutions
 | 67     | [Python Evaluation](https://github.com/Marcoc51/HackerRank/blob/main/Python/67_Python_Evaluation.py)                                      | Easy        |
 | 68     | [Any or All](https://github.com/Marcoc51/HackerRank/blob/main/Python/68_Any_or_All.py)                                                    | Easy        |
 | 69     | [ginortS](https://github.com/Marcoc51/HackerRank/blob/main/Python/69_ginortS.py)                                                          | Medium      |
+| 70     | [Athlete Sort](https://github.com/Marcoc51/HackerRank/blob/main/Python/70_Athlete_Sort.py)                                                | Medium      |
