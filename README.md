@@ -159,3 +159,4 @@ This is for HackerRank problems solutions
 | 69     | [ginortS](https://github.com/Marcoc51/HackerRank/blob/main/Python/69_ginortS.py)                                                          | Medium      |
 | 70     | [Athlete Sort](https://github.com/Marcoc51/HackerRank/blob/main/Python/70_Athlete_Sort.py)                                                | Medium      |
 | 71     | [Map and Lambda Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/71_Map_and_Lambda_Function.py)                          | Easy        |
+| 72     | [Reduce Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/72_Reduce_Function.py)                                          | Medium      |
