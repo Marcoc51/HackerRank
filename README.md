@@ -161,3 +161,4 @@ This is for HackerRank problems solutions
 | 71     | [Map and Lambda Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/71_Map_and_Lambda_Function.py)                          | Easy        |
 | 72     | [Reduce Function](https://github.com/Marcoc51/HackerRank/blob/main/Python/72_Reduce_Function.py)                                          | Medium      |
 | 73     | [Validating Email Addresses With a Filter](https://github.com/Marcoc51/HackerRank/blob/main/Python/73_Validating_Email.py)                | Medium      |
+| 74     | [Arrays](https://github.com/Marcoc51/HackerRank/blob/main/Python/74_Arrays.py)                                                            | Easy        |
