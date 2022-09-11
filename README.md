@@ -163,3 +163,4 @@ This is for HackerRank problems solutions
 | 73     | [Validating Email Addresses With a Filter](https://github.com/Marcoc51/HackerRank/blob/main/Python/73_Validating_Email.py)                | Medium      |
 | 74     | [Arrays](https://github.com/Marcoc51/HackerRank/blob/main/Python/74_Arrays.py)                                                            | Easy        |
 | 75     | [Shape and Reshape](https://github.com/Marcoc51/HackerRank/blob/main/Python/75_Shape_and_Reshape.py)                                      | Easy        |
+| 76     | [Transpose and Flatten](https://github.com/Marcoc51/HackerRank/blob/main/Python/76_Transpose_and_Flatten.py)                              | Easy        |
