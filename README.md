@@ -166,3 +166,4 @@ This is for HackerRank problems solutions
 | 76     | [Transpose and Flatten](https://github.com/Marcoc51/HackerRank/blob/main/Python/76_Transpose_and_Flatten.py)                              | Easy        |
 | 77     | [Concatenate](https://github.com/Marcoc51/HackerRank/blob/main/Python/77_Concatenate.py)                                                  | Easy        |
 | 78     | [Zeros and Ones](https://github.com/Marcoc51/HackerRank/blob/main/Python/78_Zeros_and_Ones.py)                                            | Easy        |
+| 79     | [Eye and Identity](https://github.com/Marcoc51/HackerRank/blob/main/Python/79_Eye_and_Identity.py)                                        | Easy        |
