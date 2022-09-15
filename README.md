@@ -167,3 +167,4 @@ This is for HackerRank problems solutions
 | 77     | [Concatenate](https://github.com/Marcoc51/HackerRank/blob/main/Python/77_Concatenate.py)                                                  | Easy        |
 | 78     | [Zeros and Ones](https://github.com/Marcoc51/HackerRank/blob/main/Python/78_Zeros_and_Ones.py)                                            | Easy        |
 | 79     | [Eye and Identity](https://github.com/Marcoc51/HackerRank/blob/main/Python/79_Eye_and_Identity.py)                                        | Easy        |
+| 80     | [Array Mathematics](https://github.com/Marcoc51/HackerRank/blob/main/Python/80_Array_Mathematics.py)                                      | Easy        |
