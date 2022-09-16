@@ -168,3 +168,4 @@ This is for HackerRank problems solutions
 | 78     | [Zeros and Ones](https://github.com/Marcoc51/HackerRank/blob/main/Python/78_Zeros_and_Ones.py)                                            | Easy        |
 | 79     | [Eye and Identity](https://github.com/Marcoc51/HackerRank/blob/main/Python/79_Eye_and_Identity.py)                                        | Easy        |
 | 80     | [Array Mathematics](https://github.com/Marcoc51/HackerRank/blob/main/Python/80_Array_Mathematics.py)                                      | Easy        |
+| 81     | [Min and Max](https://github.com/Marcoc51/HackerRank/blob/main/Python/81_Min_and_Max.py)                                                  | Easy        |
