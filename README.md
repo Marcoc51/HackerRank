@@ -170,3 +170,4 @@ This is for HackerRank problems solutions
 | 80     | [Array Mathematics](https://github.com/Marcoc51/HackerRank/blob/main/Python/80_Array_Mathematics.py)                                      | Easy        |
 | 81     | [Min and Max](https://github.com/Marcoc51/HackerRank/blob/main/Python/81_Min_and_Max.py)                                                  | Easy        |
 | 82     | [Sum and Prod](https://github.com/Marcoc51/HackerRank/blob/main/Python/82_Sum_and_Prod.py)                                                | Easy        |
+| 83     | [Mean, Var, and Std](https://github.com/Marcoc51/HackerRank/blob/main/Python/83_Mean_Var_and_Std.py)                                      | Easy        |
