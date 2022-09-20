@@ -171,3 +171,5 @@ This is for HackerRank problems solutions
 | 81     | [Min and Max](https://github.com/Marcoc51/HackerRank/blob/main/Python/81_Min_and_Max.py)                                                  | Easy        |
 | 82     | [Sum and Prod](https://github.com/Marcoc51/HackerRank/blob/main/Python/82_Sum_and_Prod.py)                                                | Easy        |
 | 83     | [Mean, Var, and Std](https://github.com/Marcoc51/HackerRank/blob/main/Python/83_Mean_Var_and_Std.py)                                      | Easy        |
+| 84     | [Linear Algebra](https://github.com/Marcoc51/HackerRank/blob/main/Python/84_Linear_Algebra.py)                                            | Easy        |
+| 85     | [Floor, Ceil and Rint](https://github.com/Marcoc51/HackerRank/blob/main/Python/85_Floor_Ceil_and_Rint.py)                                 | Easy        |
