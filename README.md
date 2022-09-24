@@ -175,3 +175,4 @@ This is for HackerRank problems solutions
 | 85     | [Floor, Ceil and Rint](https://github.com/Marcoc51/HackerRank/blob/main/Python/85_Floor_Ceil_and_Rint.py)                                 | Easy        |
 | 86     | [Polynomials](https://github.com/Marcoc51/HackerRank/blob/main/Python/86_Polynomials.py)                                                  | Easy        |
 | 87     | [Inner and Outer](https://github.com/Marcoc51/HackerRank/blob/main/Python/87_Inner_and_Outer.py)                                          | Easy        |
+| 88     | [Dot and Cross](https://github.com/Marcoc51/HackerRank/blob/main/Python/88_Dot_and_Cross.py)                                              | Easy        |
