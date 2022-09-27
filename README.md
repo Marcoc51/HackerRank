@@ -178,3 +178,4 @@ This is for HackerRank problems solutions
 | 88     | [Dot and Cross](https://github.com/Marcoc51/HackerRank/blob/main/Python/88_Dot_and_Cross.py)                                              | Easy        |
 | 89     | [Words Score](https://github.com/Marcoc51/HackerRank/blob/main/Python/89_Words_Score.py)                                                  | Medium      |
 | 90     | [Standardize Mobile Number Using Decorators](https://github.com/Marcoc51/HackerRank/blob/main/Python/90_Standardize_Mobile_Number.py)     | Easy        |
+| 91     | [Decorators 2 - Name Directory](https://github.com/Marcoc51/HackerRank/blob/main/Python/91_Name_Directory.py)                             | Easy        |
