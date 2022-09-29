@@ -180,3 +180,4 @@ This is for HackerRank problems solutions
 | 90     | [Standardize Mobile Number Using Decorators](https://github.com/Marcoc51/HackerRank/blob/main/Python/90_Standardize_Mobile_Number.py)     | Easy        |
 | 91     | [Decorators 2 - Name Directory](https://github.com/Marcoc51/HackerRank/blob/main/Python/91_Name_Directory.py)                             | Easy        |
 | 92     | [XML 1 - Find the Score](https://github.com/Marcoc51/HackerRank/blob/main/Python/92_XML_1-Find_the_Score.py)                              | Easy        |
+| 93     | [Detect Floating Point Number](https://github.com/Marcoc51/HackerRank/blob/main/Python/93_Detect_Floating_Point_Number.py)                | Easy        |
