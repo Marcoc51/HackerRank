@@ -183,3 +183,4 @@ This is for HackerRank problems solutions
 | 93     | [Detect Floating Point Number](https://github.com/Marcoc51/HackerRank/blob/main/Python/93_Detect_Floating_Point_Number.py)                | Easy        |
 | 94     | [Re.split()](https://github.com/Marcoc51/HackerRank/blob/main/Python/94_Re_split.py)                                                      | Easy        |
 | 95     | [Group(), Groups() & Groupdict()](https://github.com/Marcoc51/HackerRank/blob/main/Python/95_Group_Groups_Groupdict.py)                   | Easy        |
+| 96     | [Re.findall() & Re.finditer()](https://github.com/Marcoc51/HackerRank/blob/main/Python/96_Re.findall_Re.finditer.py)                      | Easy        |
