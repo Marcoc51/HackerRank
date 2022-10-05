@@ -186,3 +186,4 @@ This is for HackerRank problems solutions
 | 96     | [Re.findall() & Re.finditer()](https://github.com/Marcoc51/HackerRank/blob/main/Python/96_Re.findall_Re.finditer.py)                      | Easy        |
 | 97     | [Re.start() & Re.end()](https://github.com/Marcoc51/HackerRank/blob/main/Python/97_Re_start_Re_end.py)                                    | Easy        |
 | 98     | [Validating Roman Numerals](https://github.com/Marcoc51/HackerRank/blob/main/Python/98_Validating_Roman_Numerals.py)                      | Easy        |
+| 99     | [Validating phone numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/99_Validating_phone_numbers.py)                        | Easy        |
