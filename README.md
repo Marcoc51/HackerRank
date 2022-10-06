@@ -187,3 +187,4 @@ This is for HackerRank problems solutions
 | 97     | [Re.start() & Re.end()](https://github.com/Marcoc51/HackerRank/blob/main/Python/97_Re_start_Re_end.py)                                    | Easy        |
 | 98     | [Validating Roman Numerals](https://github.com/Marcoc51/HackerRank/blob/main/Python/98_Validating_Roman_Numerals.py)                      | Easy        |
 | 99     | [Validating phone numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/99_Validating_phone_numbers.py)                        | Easy        |
+| 100    | [Validating and Parsing Email Addresses](https://github.com/Marcoc51/HackerRank/blob/main/Python/100_Validating_Email_Addresses.py)       | Easy        |
