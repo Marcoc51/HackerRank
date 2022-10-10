@@ -190,3 +190,4 @@ This is for HackerRank problems solutions
 | 100    | [Validating and Parsing Email Addresses](https://github.com/Marcoc51/HackerRank/blob/main/Python/100_Validating_Email_Addresses.py)       | Easy        |
 | 101    | [Hex Color Code](https://github.com/Marcoc51/HackerRank/blob/main/Python/101_Hex_Color_Code.py)                                           | Easy        |
 | 102    | [HTML Parser - Part 1](https://github.com/Marcoc51/HackerRank/blob/main/Python/102_HTML_Parser-Part1.py)                                  | Easy        |
+| 103    | [HTML Parser - Part 2](https://github.com/Marcoc51/HackerRank/blob/main/Python/103_HTML_Parser-Part2.py)                                  | Easy        |
