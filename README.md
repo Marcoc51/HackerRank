@@ -194,3 +194,4 @@ This is for HackerRank problems solutions
 | 104    | [Detect HTML Tags, Attributes and Attribute Values](https://github.com/Marcoc51/HackerRank/blob/main/Python/104_Detect_HTML.py)           | Easy        |
 | 105    | [Validating UID](https://github.com/Marcoc51/HackerRank/blob/main/Python/105_Validating_UID.py)                                           | Easy        |
 | 106    | [Validating Credit Card Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/106_Validating_Credit_Card_Numbers.py)           | Easy        |
+| 107    | [Time Delta](https://github.com/Marcoc51/HackerRank/blob/main/Python/107_Time_Delta.py)                                                   | Medium      |
