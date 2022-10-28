@@ -195,3 +195,11 @@ This is for HackerRank problems solutions
 | 105    | [Validating UID](https://github.com/Marcoc51/HackerRank/blob/main/Python/105_Validating_UID.py)                                           | Easy        |
 | 106    | [Validating Credit Card Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Python/106_Validating_Credit_Card_Numbers.py)           | Easy        |
 | 107    | [Time Delta](https://github.com/Marcoc51/HackerRank/blob/main/Python/107_Time_Delta.py)                                                   | Medium      |
+
+
+4. #### Linux Shell Problems:
+
+| ID     | Problem                                                                                                                                   | DIFFICULTY  |
+| -------|:-----------------------------------------------------------------------------------------------------------------------------------------:| -----------:|
+| 01     | [Let's Echo](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/01_Lets_Echo.sh)                                              | Easy        |
+| 02     | [Looping and Skipping](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/02_Looping_and_Skipping.sh)                         | Easy        |
