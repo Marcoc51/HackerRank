@@ -205,3 +205,5 @@ This is for HackerRank problems solutions
 | 02     | [Looping and Skipping](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/02_Looping_and_Skipping.sh)                         | Easy        |
 | 03     | [A Personalized Echo](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/03_A_Personalized_Echo.sh)                           | Easy        |
 | 04     | [Looping with Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/04_Looping_with_Numbers.sh)                         | Easy        |
+| 05     | [The World of Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/05_The_World_of_Numbers.sh)                         | Easy        |
+| 06     | [Comparing Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/06_Comparing_Numbers.sh)                               | Easy        |
