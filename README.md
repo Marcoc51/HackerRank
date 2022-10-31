@@ -207,3 +207,5 @@ This is for HackerRank problems solutions
 | 04     | [Looping with Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/04_Looping_with_Numbers.sh)                         | Easy        |
 | 05     | [The World of Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/05_The_World_of_Numbers.sh)                         | Easy        |
 | 06     | [Comparing Numbers](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/06_Comparing_Numbers.sh)                               | Easy        |
+| 07     | [Getting started with conditionals](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/07_Getting_started_with_conditional.sh)| Easy        |
+| 08     | [More on Conditionals](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/08_More_on_Conditionals.sh)                         | Easy        |
