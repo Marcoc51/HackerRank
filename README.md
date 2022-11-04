@@ -215,3 +215,5 @@ This is for HackerRank problems solutions
 | 12     | [Tail of a Text File #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/12_Tail_of_a_Text_File2.sh)                       | Easy        |
 | 13     | [Cut #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/13_Cut1.sh)                                                       | Easy        |
 | 14     | [Cut #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/14_Cut2.sh)                                                       | Easy        |
+| 15     | [Cut #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/15_Cut3.sh)                                                       | Easy        |
+| 16     | [Cut #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/16_Cut4.sh)                                                       | Easy        |
