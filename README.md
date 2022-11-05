@@ -217,3 +217,5 @@ This is for HackerRank problems solutions
 | 14     | [Cut #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/14_Cut2.sh)                                                       | Easy        |
 | 15     | [Cut #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/15_Cut3.sh)                                                       | Easy        |
 | 16     | [Cut #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/16_Cut4.sh)                                                       | Easy        |
+| 17     | [Cut #5](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/17_Cut5.sh)                                                       | Easy        |
+| 18     | [Cut #6](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/18_Cut6.sh)                                                       | Easy        |
