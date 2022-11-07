@@ -221,3 +221,5 @@ This is for HackerRank problems solutions
 | 18     | [Cut #6](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/18_Cut6.sh)                                                       | Easy        |
 | 19     | [Cut #7](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/19_Cut7.sh)                                                       | Easy        |
 | 20     | [Cut #8](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/20_Cut8.sh)                                                       | Easy        |
+| 21     | [Cut #9](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/21_Cut9.sh)                                                       | Easy        |
+| 22     | [Middle of a Text File](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/22_Middle_of_a_Text_File.sh)                       | Easy        |
