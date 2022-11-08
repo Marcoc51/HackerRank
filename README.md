@@ -223,3 +223,6 @@ This is for HackerRank problems solutions
 | 20     | [Cut #8](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/20_Cut8.sh)                                                       | Easy        |
 | 21     | [Cut #9](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/21_Cut9.sh)                                                       | Easy        |
 | 22     | [Middle of a Text File](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/22_Middle_of_a_Text_File.sh)                       | Easy        |
+| 23     | ['Tr' Command #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/23_Tr_Command1.sh)                                       | Easy        |
+| 24     | ['Tr' Command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/24_Tr_Command2.sh)                                       | Easy        |
+| 25     | ['Tr' Command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/25_Tr_Command3.sh)                                       | Easy        |
