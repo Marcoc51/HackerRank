@@ -226,3 +226,5 @@ This is for HackerRank problems solutions
 | 23     | ['Tr' Command #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/23_Tr_Command1.sh)                                       | Easy        |
 | 24     | ['Tr' Command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/24_Tr_Command2.sh)                                       | Easy        |
 | 25     | ['Tr' Command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/25_Tr_Command3.sh)                                       | Easy        |
+| 26     | [Sort Command #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/26_Sort_Command1.sh)                                     | Easy        |
+| 27     | [Sort Command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/27_Sort_Command2.sh)                                     | Easy        |
