@@ -231,3 +231,5 @@ This is for HackerRank problems solutions
 | 28     | [Sort Command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/28_Sort_Command3.sh)                                     | Easy        |
 | 29     | [Sort Command #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/29_Sort_Command4.sh)                                     | Easy        |
 | 30     | [Sort Command #5](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/30_Sort_Command5.sh)                                     | Easy        |
+| 31     | [Sort Command #6](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/31_Sort_Command6.sh)                                     | Easy        |
+| 32     | [Sort Command #7](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/32_Sort_Command7.sh)                                     | Easy        |
