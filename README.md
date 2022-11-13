@@ -235,3 +235,5 @@ This is for HackerRank problems solutions
 | 32     | [Sort Command #7](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/32_Sort_Command7.sh)                                     | Easy        |
 | 33     | ['Uniq' Command #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/33_Uniq_Command1.sh)                                   | Easy        |
 | 34     | ['Uniq' Command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/34_Uniq_Command2.sh)                                   | Easy        |
+| 35     | ['Uniq' Command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/35_Uniq_Command3.sh)                                   | Easy        |
+| 36     | ['Uniq' Command #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/36_Uniq_Command4.sh)                                   | Easy        |
