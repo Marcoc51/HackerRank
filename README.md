@@ -237,7 +237,7 @@ This is for HackerRank problems solutions
 | 34     | ['Uniq' Command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/34_Uniq_Command2.sh)                                   | Easy        |
 | 35     | ['Uniq' Command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/35_Uniq_Command3.sh)                                   | Easy        |
 | 36     | ['Uniq' Command #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/36_Uniq_Command4.sh)                                   | Easy        |
-| 37     | [Paste - 1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/37_Paste1.sh)                                                  | Easy        |
-| 38     | [Paste - 2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/38_Paste2.sh)                                                  | Easy        |
-| 39     | [Paste - 3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/39_Paste3.sh)                                                  | Easy        |
-| 40     | [Paste - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/40_Paste4.sh)                                                  | Easy        |
+| 37     | [Paste - 1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/37_Paste1.sh)                                                  | Medium      |
+| 38     | [Paste - 2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/38_Paste2.sh)                                                  | Medium      |
+| 39     | [Paste - 3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/39_Paste3.sh)                                                  | Medium      |
+| 40     | [Paste - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/40_Paste4.sh)                                                  | Medium      |
