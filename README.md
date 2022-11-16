@@ -241,3 +241,5 @@ This is for HackerRank problems solutions
 | 38     | [Paste - 2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/38_Paste2.sh)                                                  | Medium      |
 | 39     | [Paste - 3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/39_Paste3.sh)                                                  | Medium      |
 | 40     | [Paste - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/40_Paste4.sh)                                                  | Medium      |
+| 41     | [Read in an Array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/41_Read_in_an_Array.sh)                                 | Easy        |
+| 42     | [Slice an Array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/42_Slice_an_Array.sh)                                     | Easy        |
