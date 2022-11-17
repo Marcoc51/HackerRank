@@ -243,3 +243,6 @@ This is for HackerRank problems solutions
 | 40     | [Paste - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/40_Paste4.sh)                                                  | Medium      |
 | 41     | [Read in an Array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/41_Read_in_an_Array.sh)                                 | Easy        |
 | 42     | [Slice an Array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/42_Slice_an_Array.sh)                                     | Easy        |
+| 43     | [Display an element of an array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/43_Display_an_element_of_an_array.sh)     | Easy        |
+| 44     | [Count the number of elements in an Array](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/44_Count_the_number.sh)         | Easy        |
+| 45     | [Concatenate an array with itself](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/45_Concatenate_an_array_with_itself.sh) | Easy        |
