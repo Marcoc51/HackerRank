@@ -248,3 +248,4 @@ This is for HackerRank problems solutions
 | 45     | [Concatenate an array with itself](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/45_Concatenate_an_array_with_itself.sh) | Easy        |
 | 46     | [Filter an Array with Patterns](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/46_Filter_an_Array_with_Patterns.sh)       | Medium      |
 | 47     | [Remove the First Capital Letter from Each Element](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/47_Remove_Capital_Letter.sh)| Medium |
+| 48     | ['Grep' - A](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/48_Grep_A.sh)                                                 | Easy        |
