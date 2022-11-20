@@ -249,3 +249,6 @@ This is for HackerRank problems solutions
 | 46     | [Filter an Array with Patterns](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/46_Filter_an_Array_with_Patterns.sh)       | Medium      |
 | 47     | [Remove the First Capital Letter from Each Element](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/47_Remove_Capital_Letter.sh)| Medium |
 | 48     | ['Grep' - A](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/48_Grep_A.sh)                                                 | Easy        |
+| 49     | ['Grep' #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/49_Grep_1.sh)                                                  | Medium      |
+| 50     | ['Grep' #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/50_Grep_2.sh)                                                  | Medium      |
+| 51     | ['Grep' #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/51_Grep_3.sh)                                                  | Medium      |
