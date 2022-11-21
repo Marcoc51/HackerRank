@@ -252,3 +252,5 @@ This is for HackerRank problems solutions
 | 49     | ['Grep' #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/49_Grep_1.sh)                                                  | Medium      |
 | 50     | ['Grep' #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/50_Grep_2.sh)                                                  | Medium      |
 | 51     | ['Grep' #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/51_Grep_3.sh)                                                  | Medium      |
+| 52     | ['Sed' command #1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/52_Sed_command1.sh)                                     | Medium      |
+| 53     | ['Sed' command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/53_Sed_command2.sh)                                     | Medium      |
