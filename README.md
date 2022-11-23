@@ -256,3 +256,5 @@ This is for HackerRank problems solutions
 | 53     | ['Sed' command #2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/53_Sed_command2.sh)                                     | Medium      |
 | 54     | ['Awk' - 1](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/54_Awk1.sh)                                                    | Medium      |
 | 55     | ['Awk' - 2](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/55_Awk2.sh)                                                    | Medium      |
+| 56     | ['Awk' - 3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/56_Awk3.sh)                                                    | Medium      |
+| 57     | ['Awk' - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/57_Awk4.sh)                                                    | Medium      |
