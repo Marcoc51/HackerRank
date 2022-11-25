@@ -260,3 +260,4 @@ This is for HackerRank problems solutions
 | 57     | ['Awk' - 4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/57_Awk4.sh)                                                    | Medium      |
 | 58     | ['Sed' command #3](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/58_Sed_command3.sh)                                     | Easy        |
 | 59     | ['Sed' command #4](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/59_Sed_command4.sh)                                     | Hard        |
+| 60     | [Compute the Average](https://github.com/Marcoc51/HackerRank/blob/main/Linux%20Shell/60_Compute_the_Average.sh)                           | Medium      |
