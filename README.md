@@ -1,5 +1,7 @@
 ## HackerRank
-This is for HackerRank problems solutions
+Welcome to my repository of solutions for HackerRank problems!<br> 
+Here, you will find my solutions to various coding challenges on SQL, Python, Linux Shell, and Database. <br> 
+These solutions have been tested and verified to work correctly on the HackerRank platform.
 
 1. #### SQL Problems:
 
