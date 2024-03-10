@@ -57,6 +57,7 @@ These solutions have been tested and verified to work correctly on the HackerRan
 | 48     | [Ollivander's Inventory](https://github.com/Marcoc51/HackerRank/blob/main/SQL/48_Ollivanders_Inventory.sql)                   | Medium      |
 | 49     | [Contest Leaderboard](https://github.com/Marcoc51/HackerRank/blob/main/SQL/49_Contest_Leaderboard.sql)                        | Medium      |
 | 50     | [Placements](https://github.com/Marcoc51/HackerRank/blob/main/SQL/50_Placements.sql)                                          | Medium      |
+| 51     | [New Companies](https://github.com/Marcoc51/HackerRank/blob/main/SQL/51_New_Companies.sql)                                    | Medium      |
 
 
 
