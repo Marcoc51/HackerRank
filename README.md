@@ -58,6 +58,7 @@ These solutions have been tested and verified to work correctly on the HackerRan
 | 49     | [Contest Leaderboard](https://github.com/Marcoc51/HackerRank/blob/main/SQL/49_Contest_Leaderboard.sql)                        | Medium      |
 | 50     | [Placements](https://github.com/Marcoc51/HackerRank/blob/main/SQL/50_Placements.sql)                                          | Medium      |
 | 51     | [New Companies](https://github.com/Marcoc51/HackerRank/blob/main/SQL/51_New_Companies.sql)                                    | Medium      |
+| 52     | [Challenges](https://github.com/Marcoc51/HackerRank/blob/main/SQL/52_Challenges.sql)                                          | Medium      |
 
 
 
