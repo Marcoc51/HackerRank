@@ -59,6 +59,7 @@ These solutions have been tested and verified to work correctly on the HackerRan
 | 50     | [Placements](https://github.com/Marcoc51/HackerRank/blob/main/SQL/50_Placements.sql)                                          | Medium      |
 | 51     | [New Companies](https://github.com/Marcoc51/HackerRank/blob/main/SQL/51_New_Companies.sql)                                    | Medium      |
 | 52     | [Challenges](https://github.com/Marcoc51/HackerRank/blob/main/SQL/52_Challenges.sql)                                          | Medium      |
+| 53     | [Symmetric Pairs](https://github.com/Marcoc51/HackerRank/blob/main/SQL/53_Symmetric_Pairs.sql)                                | Medium      |
 
 
 
