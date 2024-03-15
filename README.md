@@ -62,7 +62,7 @@ These solutions have been tested and verified to work correctly on the HackerRan
 | 53     | [Symmetric Pairs](https://github.com/Marcoc51/HackerRank/blob/main/SQL/53_Symmetric_Pairs.sql)                                | Medium      |
 | 54     | [Print Prime Numbers](https://github.com/Marcoc51/HackerRank/blob/main/SQL/54_Print_Prime_Numbers.sql)                        | Medium      |
 | 55     | [Occupations](https://github.com/Marcoc51/HackerRank/blob/main/SQL/55_Occupations.sql)                                        | Medium      |
-
+| 56     | [SQL Project Planning](https://github.com/Marcoc51/HackerRank/blob/main/SQL/56_SQL_Project_Planning.sql)                      | Medium      |
 
 
 2. #### Databases Problems:
